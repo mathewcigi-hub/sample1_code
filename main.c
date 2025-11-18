@@ -19,6 +19,7 @@ void run_demo() {
 
 int main() {
     run_demo();
-    printf("Hai");
+    printf("\n Hai");
+    printf("\n Haiiii");
     return 0;
 }
