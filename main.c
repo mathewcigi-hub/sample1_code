@@ -21,5 +21,6 @@ int main() {
     run_demo();
     printf("\n Hai");
     printf("\n Haiiii");
+    printf("Testing");
     return 0;
 }
