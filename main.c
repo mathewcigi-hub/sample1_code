@@ -19,5 +19,6 @@ void run_demo() {
 
 int main() {
     run_demo();
+    printf("Hai");
     return 0;
 }
